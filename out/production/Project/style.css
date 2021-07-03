@@ -1,0 +1,14 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #e8fdff;
+}
+code,pre {
+    font-family: 'Blinker', sans-serif;
+    color: #008995;
+}
+h1,h2{
+    color: #007b7b;
+}
+p{
+    color: #008995;
+}
