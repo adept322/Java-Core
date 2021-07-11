@@ -196,11 +196,3 @@
 Дополнительно:
 https://habr.com/ru/post/262245/
 https://javarush.ru/groups/posts/1924-operacii-nad-chislami-v-java
-
-1.
-int a = 0;
-for(int i = 0; i < 15; i++) {
-a = a + 0.1
-}
-
-2. Что такое пул строк? Зачем нужны? Какие строки и когда попадают в пул?
